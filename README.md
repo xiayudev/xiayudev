@@ -6,13 +6,13 @@
 ### <div align="center">I'm Josue Cerron, a passionate developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently studying at Holberton School Peru  
+- 🔭 I’m a Software Developer from Holberton School Peru.  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently searching for awesome projects that can give me to the next level.  
   
 
-- ❓ Ask me about anything related to C, Python, JavaScript, MySQL 
+- ❓ Ask me about anything related to C, Python, JavaScript, MySQL, PHP, Jquery.
   
 
 - ⚡ Fun fact: I use tabs over spaces. I use Arch btw.  
